@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Call openweathermap API and return message built using required information from the API response
  * Further the message to be sent to the private slack Channel
