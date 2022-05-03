@@ -26,3 +26,6 @@ Steps to run the program:
 Note:
 If you nned to update timezone where I used it for displaying sunset time, you can replace it on Line no. 50.
 If you are using private channel, don't forget to add app in that particular channel.
+
+Output:
+![image](https://user-images.githubusercontent.com/13583745/166564106-749d26af-d4b3-4544-8781-5e6679524a3b.png)
