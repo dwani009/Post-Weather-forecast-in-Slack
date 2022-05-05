@@ -1,5 +1,7 @@
 This program when executed Sends Weather Forecast to a Private Slack Channel and has been created as Daily service which would run at 8.00 AM EST everyday.
-You would need API token for Slack and weather forecast service (I have used OpenWeatherMap which provides limited free service)
+We would need API token for Slack and weather forecast service (I have used OpenWeatherMap which provides limited free service)
+
+Note - This program can be used further for any activity where posting a message in slack is involved, code needs to be edited as per your requirements.
 
  * In order to get the Slack API Token refer following steps:
  * 1.) Create an APP from the link: https://api.slack.com/apps/
